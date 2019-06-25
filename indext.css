@@ -1,0 +1,55 @@
+/*
+#x{font-size: 80px;}
+.all{background-color:white}
+.a{text-align:center;	border-style: solid;	border-width:10px;}
+ .all{display: inline; 
+  width: 100px;
+  height: 100px;
+  padding: 5px;
+  border: 1px solid blue;  
+  background-color:white;
+  text-align:center; }*/
+
+  	body{background-color:#DCDCDC}
+div{ text-align: center;}
+#x3{ text-align: right;}
+
+  	.all{background-color: white;
+  		width: 600px;
+  		border: 10px ;
+  		border-style:solid;
+  		border-color: black;
+  		margin:auto;
+ 		 }
+  	
+	#button1 {
+	background-color: #4682B4;
+	border: 2px;
+	color: white;
+	padding: 8px 60px;
+	text-align: center;
+	text-decoration: none;
+	display: inline-block;
+	font-size: 16px;
+	margin: 4px 2px;
+	cursor: pointer;
+
+	}
+		#button1:hover{
+		background-color: white; /* Green */
+		color:  #4682B4;
+		}
+	.but {
+	background-color: 	#DCDCDC;
+	border: 2px;
+	color: black;
+	padding: 8px 60px;
+	text-align: center;
+	text-decoration: none;
+	display: inline-block;
+	font-size: 16px;
+	margin: 4px 2px;
+	cursor: pointer;
+
+	}
+	
